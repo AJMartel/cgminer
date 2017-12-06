@@ -1,0 +1,8 @@
+01-cgminer.rules
+Makefile.am
+api.c
+cgminer.c
+configure.ac
+miner.h
+usbutils.c
+util.c
